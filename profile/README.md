@@ -1,7 +1,6 @@
 # CodeMedic-DailyLog
--
-## 협업 규칙
 
+## 협업 규칙
 * 
 
 
