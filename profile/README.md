@@ -1,4 +1,4 @@
-# DailyLog
+# HaruLog
 
 ---
 ## 1. why?
